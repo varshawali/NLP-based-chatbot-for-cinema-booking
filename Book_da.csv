@@ -1,0 +1,51 @@
+﻿Question,Answer
+I'd like to book tickets for a cinema,Book
+Book tickets,Book
+I want to book tickets,Book
+I want ticket,Book
+Can I reserve seats for a film?,Book
+I want to purchase cinema tickets.,Book
+How can I book tickets for the cinema?,Book
+Is it possible to make a reservation for the film?,Book
+I'm interested in buying tickets for a cinema.,Book
+Could you help me with cinema ticket booking,Book
+I'm looking to book tickets for the cinema.,Book
+Where can I reserve seats for the cinema,Book
+Which cinemas are playing?,cinema
+Which cinemas are available,cinema
+List of cinemas,cinema
+Can you show me the list of available cinemas?,cinema
+I'd like to see what cinemas are currently showing,cinema
+What are the cinemas options for today?,cinema
+Can you display the current cinema lineup,cinema
+I'm interested in seeing the available cinema titles,cinema
+I'd like to cancel my cinema tickets,Cancel
+Cancel the booking I made earlier,Cancel
+I want to revoke my cinema reservation,Cancel
+Please cancel the tickets I booked,Cancel
+Revoke the cinema seats I reserved,Cancel
+I've changed my mind; cancel my cinema booking,Cancel
+Undo the cinema tickets I purchased,Cancel
+Cancel the cinema seats I reserved earlier,Cancel
+I no longer need the tickets,Cancel
+I want to cancel the tickets,Cancel
+Can you tell me which theaters are currently open,Theatre
+What theaters are showing cinemas right now,Theatre
+Are there any theaters nearby with cinema screenings,Theatre
+Are there any cinemas showing films today,Theatre
+What options do I have for theaters around here,Theatre
+Can you provide a list of theaters in the area,Theatre
+Show me the list of theaters,Theatre
+I want to change my tickets,Update
+I need to make changes to my reservation,Update
+Can I modify my booking?,Update
+I want to update the details of my reservation,Update
+Is it possible to alter my booking,Update
+I'd like to make adjustments to my reservation,Update
+Can I change the information on my booking,Update
+I need to change my booking details,Update
+Can you recommend me some cinema?,recommend
+Can you pick a cinema?,recommend
+Pick a cinema for me,recommend
+
+,
