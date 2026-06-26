@@ -21,7 +21,8 @@ Bot:    Great! 2 Premium tickets for Dune: Part Two on Sat 7:30 PM.
 
 User:   Yes!
 Bot:    ✅ Booking confirmed! Your booking ID is #CIN2847. Enjoy the movie!
----
+```
+
 
 ## 🧠 How It Works
 
@@ -72,14 +73,7 @@ python -m nltk.downloader punkt wordnet stopwords
 python chatbot.py
 ```
 
-### Run as a web app (Streamlit)
 
-```bash
-pip install streamlit
-streamlit run app.py
-```
-
----
 
 ## 📁 Project Structure
 
